@@ -38,8 +38,9 @@ the use of this software, even if advised of the possibility of such damage.
 
 
 #include <opencv2/highgui.hpp>
-#include "../include/opencv2/aruco/charuco.hpp"
-#include <vector>
+#include "opencv2/aruco/charuco.hpp"
+
+
 #include <iostream>
 
 using namespace std;
