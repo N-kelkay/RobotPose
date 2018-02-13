@@ -246,6 +246,5 @@ int main(int argc, char *argv[]) {
 		char key = (char)waitKey(waitTime);
 		if(key == 27) break;
 	}
-
 	return 0;
 }
