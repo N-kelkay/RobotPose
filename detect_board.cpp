@@ -189,5 +189,7 @@ int main(int argc, char *argv[]) {
 		if(key == 27) break;
 	}
 
+		//New code should go here. Under the while loop
+
 	return 0;
 }
