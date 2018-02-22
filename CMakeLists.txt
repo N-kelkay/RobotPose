@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.9)
 PROJECT (RobotPose)
 find_package(OpenCV REQUIRED)
 set( NAME_SRC
-        detect_board_charuco.cpp)
+        charuco_board_detect/detect_board_charuco.cpp)
 
 set( NAME_HEADERS
         include/header.h
